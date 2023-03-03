@@ -1,0 +1,59 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gloock;
+    background-color:rgb(61, 60, 60);
+    color:white;
+}
+
+   
+
+.title {
+text-align: center; 
+font-size: 40px;
+color: blue;
+
+
+}
+
+.numberphone {
+
+    text-align: center;
+    letter-spacing: 5 px;
+    word-spacing: 20px;
+    font-size: 40px;
+    color:whitesmoke;
+
+
+}
+
+img {
+
+    height: 500px;
+    width: 500px;
+    margin-left: 600px;
+}
+
+header {
+
+    font-size: 35px;
+    margin-left: 900px;
+    letter-spacing: 2px;
+    word-spacing: 40px;
+    cursor: pointer;
+    
+    
+    }
+
+    @media screen and (max-width:900px) {
+
+        header{
+
+            display: block;
+         margin-left: 10%;
+         
+         }
+    }

@@ -1,0 +1,162 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'gloock', sans-serif;
+    background-color:rgb(61, 60, 60);
+    color: white;
+}  
+
+.wrapper { 
+
+height: 100vh;
+width: 100vw;
+text-align: left;
+margin-left: 10%;
+ 
+}
+
+.left {
+display: inline-block;
+width: 60%;
+position: absolute;
+
+
+
+}
+
+
+ .rigth {
+    display: inline-block;
+    background-color: rgba(93, 93, 125, 0.16);
+    height: 100vh;
+    width: 40%;
+   
+   
+   
+    
+
+ }
+
+ .frontal {
+    height: 400px;
+    width: 400px;
+    position: relative;
+    margin-top: 40%;
+    margin-left:15%;
+   
+
+ }
+
+ .lateral {
+
+    height: 400px;
+    width: 400px;
+    position: relative;
+    margin-left: 10%;
+ }
+
+ header {
+
+word-spacing: 20px;
+font-size: 30px;
+margin-left: 60%;
+
+
+
+ }
+
+ .titulo {
+    font-size: 150px;
+   color: blue;
+    word-spacing: 20px;
+
+
+ }
+
+ .first {
+
+font-size: 40px;
+text-align: center;
+color: gray;
+
+
+
+ }
+
+ p {
+font-size: 30px;
+text-align: center;
+
+
+
+ }
+
+ .click {
+
+    margin-left: 50%;
+    font-size: 30px;
+ }
+
+ @media screen and (max-width:900px) {
+   .titulo {
+      font-size: 50px;
+
+
+   }
+   .first {
+
+      font-size: 20px;
+   }
+p {
+
+font-size: 20px;
+
+}
+
+.click {
+
+   font-size: 20px;
+   display: block;
+
+}
+
+.frontal {
+height: 200px;
+width: 200px;
+margin-left: 5%;
+margin-top: 120%;
+
+
+}
+.lateral {
+   height: 200px;
+   width: 200px;
+  margin-left: 0%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  
+
+}
+
+.home {
+
+   font-size: 20px;
+display: block;
+ 
+}
+
+.sobre {
+   font-size: 20px;
+   display: block;
+}
+.contatos {
+   font-size: 20px;
+   display: block;
+
+}
+ }
+   
+ 
