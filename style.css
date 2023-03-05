@@ -71,7 +71,7 @@ margin-left: 60%;
  }
 
  .titulo {
-    font-size: 150px;
+    font-size: 100px;
    color: blue;
     word-spacing: 20px;
 
@@ -80,7 +80,7 @@ margin-left: 60%;
 
  .first {
 
-font-size: 40px;
+font-size: 20px;
 text-align: center;
 color: gray;
 
@@ -89,7 +89,7 @@ color: gray;
  }
 
  p {
-font-size: 30px;
+font-size: 20px;
 text-align: center;
 
 
