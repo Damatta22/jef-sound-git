@@ -41,21 +41,23 @@ position: absolute;
  }
 
  .frontal {
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     position: relative;
     margin-top: 40%;
     margin-left:15%;
+    display: inline;
    
 
  }
 
  .lateral {
 
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     position: relative;
     margin-left: 10%;
+    display: inline;
  }
 
  header {
@@ -112,22 +114,23 @@ text-align: center;
    }
 p {
 
-font-size: 20px;
+font-size: 15px;
 
 }
 
 .click {
 
-   font-size: 20px;
-   display: block;
-
+   font-size: 15px;
+  margin-right: 10px;
+text-align:center;
 }
 
 .frontal {
 height: 200px;
 width: 200px;
 margin-left: 5%;
-margin-top: 120%;
+margin-top: 100%;
+display: inline-block;
 
 
 }
@@ -136,7 +139,8 @@ margin-top: 120%;
    width: 200px;
   margin-left: 0%;
   margin-bottom: 5%;
-  margin-top: 5%;
+  margin-top: 10px;
+  display: inline-block;
   
 
 }
