@@ -6,4 +6,4 @@
 com o objetivo de divulgar as caixinhas JEF sound, uma landding page simples <br>
 porém objetiva com imagens do produto, informações e contatos para vendas.</p>
 
-<img src="frente site.PNG"</img>
+<img src="frente site.PNG">
